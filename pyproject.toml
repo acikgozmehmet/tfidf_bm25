@@ -1,0 +1,13 @@
+[project]
+name = "tfidf-bm25"
+version = "0.1.0"
+description = "TF-IDF vs BM25: Understanding and Implementing Text Ranking Algorithms in Python"
+readme = "README.md"
+authors = [
+    { name = "Mehmet Acikgoz", email = "47839556+acikgozmehmet@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "nltk>=3.9.1",
+    "rich>=14.1.0",
+]
