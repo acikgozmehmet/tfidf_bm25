@@ -6,7 +6,7 @@
 ## Description
 This project implements and compares TF-IDF and BM25, which are two popular text ranking algorithms. The goal is to understand their differences and provide a working implementation in Python. The project includes functionalities to compute and print the term frequency-inverse document frequency (TF-IDF) and BM25 scores for documents, helping users analyze the relevance of terms within textual data.
 
-For a detailed step-by-step guide, see the accompanying Medium article on [Medium](https://medium.com/@macikgozm/creating-and-deploying-a-databricks-app-with-asset-bundles-f9395eb46f91)
+For a detailed step-by-step guide, see the accompanying Medium article on [Medium](https://medium.com/@macikgozm/tf-idf-vs-bm25-understanding-and-implementing-text-ranking-algorithms-in-python-f56111f5086b)
 
 ## Installation
 To install the necessary dependencies for this project, run:
